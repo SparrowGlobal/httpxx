@@ -9,7 +9,7 @@ __Free Sample Wall__
 
 On this wall you will find a selection of free samples.  Try one.  We're sure you'll like it!
 
-Simply click on the random number of your choice and the link will take you to one of the artworks in the ://:httpxx://: Collection on Mintbase.  There you can claim the token by clicking the 'Buy Now' button (0.0ETH). Please be courteous and only claim one NFT! If the link you choose doesn't take you to the artwork you were hoping for, remember you can always bid or trade these in the secondary market on OpenSea.  Each of these are 1-of-1 editions produced specially for this event.
+Simply click on the 'lucky dip' random number of your choice and the link will take you to one of the artworks in the ://:httpxx://: Collection on Mintbase.  There you can claim the token by clicking the 'Buy Now' button (0.0ETH). Please be courteous and only claim one NFT! If the link you choose doesn't take you to the artwork you were hoping for, remember you can always bid or trade these in the secondary market on OpenSea.  Each of these are 1-of-1 editions produced specially for this event.
 
 From time to time, at random, there will be other artworks added as free samples.  Be sure to check back here from time to time!
 
