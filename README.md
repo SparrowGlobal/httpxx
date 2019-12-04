@@ -7,11 +7,11 @@ Welcome.  We've been waiting for you!
 
 __Free Sample Wall__
 
-There is a wall of free samples.  Try one.  We're sure you'll like it!
+On this wall you will find a selection of free samples.  Try one.  We're sure you'll like it!
 
-Simply click on the image of your choice and the link will take you to the ://:httpxx://: Collection on Mintbase.  There you can claim the token by clicking the 'Buy Now' button (0.0ETH).  Please be courteous and only claim one NFT!  Each of these are 1-of-1 editions produced specially for this event.
+Simply click on the random number of your choice and the link will take you to the ://:httpxx://: Collection on Mintbase.  There you can claim the token by clicking the 'Buy Now' button (0.0ETH).  Please be courteous and only claim one NFT!  Each of these are 1-of-1 editions produced specially for this event.
 
-From time to time, at random, there will be other artworks added as free samples.  Be sure to check back regularly!
+From time to time, at random, there will be other artworks added as free samples.  Be sure to check back here from time to time!
 
 __Permanent Collection Wall__
 
@@ -21,9 +21,9 @@ __Buy Crypto Art Walls__
 
 The remaining two walls showcase artworks from a variety of artists and offer a variety of purchasing choices:
 
-* httpxx://:BlackBox.Art tokens on OpenSea
+* httpxx://:BlackBox tokens on OpenSea
 
-   These artworks are from a a variety of artists and the currently available ones were created for this event to be put on sale in a no-reserve price auction.  Place your bid on OpenSea and pick up some great Crypto Art at a Great Price to start or add to your collection.  But don't get outbid!   
+   These are artworks from some top artists and the currently available ones were created just for this event to be put on sale in a no-reserve price auction.  Place your bid on OpenSea and pick up some great Crypto Art at a Great Price to start or add to your collection.  But don't get outbid!   
 
 * KnownOrigin tokens
 
@@ -31,4 +31,4 @@ The remaining two walls showcase artworks from a variety of artists and offer a 
 
 * SuperRare tokens
 
-   All artworks on SuperRare are unique 1-of-1 NFTs.  Please follow the link from OpenSea to SuperRare to bid on any of these artworks.  Offers on OpenSea will not be considered at this time as it does not yet enforce the artist's royalty that is part of the SuperRare contract.   
+   All artworks on SuperRare are unique 1-of-1 NFTs.  Please follow the link from OpenSea to SuperRare to bid on any of these artworks.  Offers on OpenSea cannot be considered at this time as it does not yet support the artist's royalty that is part of the SuperRare contract.   
